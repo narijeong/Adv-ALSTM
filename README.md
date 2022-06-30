@@ -20,3 +20,9 @@ For usage of this code, please cite our paper
   year={2019}
 }
 ```
+# Environment Setup
+```
+conda create env -n Adv-ALSTM python=3.6
+conda activate Adv-ALSTM
+pip install tensorflow==1.8 numpy==1.14.5
+```
