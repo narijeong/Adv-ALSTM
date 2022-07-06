@@ -26,3 +26,6 @@ conda create env -n Adv-ALSTM python=3.6
 conda activate Adv-ALSTM
 pip install -r requirements.txt
 ```
+
+# How to run
+check out 'hyperparameters' file
